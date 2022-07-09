@@ -33,3 +33,13 @@
   border-radius: 5px;
   background-color: rgb(254, 255, 245);
 }
+
+textarea {
+  width: 100%;
+  height: 30vh;
+  border: 0;
+  border-radius: 5px;
+  background-color: rgb(254, 255, 245);
+  font-weight: 600;
+  color: rgb(0, 0, 0);
+}
